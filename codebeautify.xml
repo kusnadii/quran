@@ -1,0 +1,577 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd">
+	<channel>
+		<language>tr</language>
+		<item>
+			<title>001 : Al Fatiha</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/001.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>002 : Al Baqarah</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/002.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>003 : A'al Imran</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/003.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>004 : Al Nesa'a</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/004.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>005 : Al Ma'edah</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/005.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>006 :  Al Ana'am</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/006.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>007 : Al A`araf</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/007.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>008 : Al Anfal</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/008.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>009 : At Tawba</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/009.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>010 : Yunus</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/010.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>011 : Hud</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/011.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>012 : Yusuf</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/012.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>013 : Ar Rad</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/013.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>014 : Ibrahim</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/014.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>015 : Al Hijr</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/015.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>016 : Al Nahl</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/016.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>017 : Al Isra</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/017.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>018 : Al Kahf</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/018.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>019 : Maryam</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/019.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>020 : Taha</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/020.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>021 : Al Anbiya</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/021.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>022 : Al Hajj</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/022.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>023 : Al Mumenoon</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/023.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>024 : An Noor</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/024.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>025 : Al Furqan</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/025.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>026 : Ash Shuara</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/026.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>027 : An Naml</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/027.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>028 : Al Qasas</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/028.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>029 : Al Ankaboot</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/029.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>030 : Ar Room</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/030.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>031 : Luqman</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/031.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>032 : AS Sajda</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/032.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>033 : Al Ahzab</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/033.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>034 : Saba</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/034.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>035 : Fatir</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/035.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>036 : Yaseen</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/036.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>037 : As Saaffat</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/037.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>038 : Sad</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/038.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>039 : Az Zumar</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/039.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>040 : Ghafir</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/040.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>041 : Fussilat</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/041.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>042 : Ash Shura</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/042.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>043 : Az Zukhruf</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/043.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>044 : Ad Dukhan</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/044.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>045 : Al Jathiya</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/045.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>046 : Al Ahqaf</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/046.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>047 : Muhammad</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/047.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>048 : Al Fath</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/048.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>049 : Al Hujurat</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/049.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>050 : Qaf</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/050.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>051 : Ad Dhariyat</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/051.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>052 : At Tur</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/052.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>053 : An Najm</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/053.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>054 : Al Qamar</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/054.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>055 : Ar Rahman</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/055.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>056 : Al Waqia</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/056.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>057 : Al Hadid</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/057.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>058 : Al Mujadala</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/058.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>059 : Al Hashr</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/059.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>060 : Al Mumtahana</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/060.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>061 : As Saff</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/061.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>062 : Al Jumua</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/062.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>063 : Al Munafiqoon</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/063.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>064 : At Taghabun</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/064.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>065 : At Talaq</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/065.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>066 : At Tahrim</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/066.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>067 :  Al Mulk</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/067.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>068 : Al Qalam</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/068.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>069 : Al Haqqa</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/069.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>070 : Al Maarij</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/070.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>071 : Nooh</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/071.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>072 : Al Jinn</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/072.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>073 : Al Muzzamill</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/073.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>074 : Al Muddaththir</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/074.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>075 : Al Qiyama</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/075.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>076 : Al Insan</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/076.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>077 : Al Mursalat</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/077.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>078 : An Naba</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/078.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>079 : An Naziat</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/079.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>080 : Abasa</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/080.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>081 : Al Takwir</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/081.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>082 : Al Infitar</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/082.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>083 : Al Mutaffifin</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/083.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>084 : Al Inshiqaq</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/084.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>085 : Al Burooj</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/085.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>086 : At Tariq</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/086.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>087 : Al Ala</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/087.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>088 : Al Ghashiya</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/088.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>089 : Al Fajr</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/089.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>090 : Al Balad</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/090.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>091 : Ash Shams</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/091.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>092 : Al Layl</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/092.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>093 : Ad Dhuha</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/093.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>094 : As Sharh</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/094.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>095 : At Tin</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/095.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>096 : Al Alaq</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/096.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>097 : Al Qadr</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/097.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>098 : Al Bayyina</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/098.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>099 : Az Zalzala</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/099.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>100 : Al Adiyat</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/100.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>101 : Al Qaria</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/101.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>102 : At Takathur</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/102.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>103 : Al Asr</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/103.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>104 : Al Humaza</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/104.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>105 : Al Fil</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/105.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>106 : Quraish</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/106.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>107 : Al Maun</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/107.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>108 : Al Kauther</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/108.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>109 : Al Kafiroon</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/109.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>110 : An Nasr</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/110.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>111 : Al Masadd</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/111.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>112 : Al Ikhlas</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/112.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>113 : Al Falaq</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/113.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>114 : An Nas</title>
+			<itunes:summary>Maher Al Mueaqly : high quality</itunes:summary>
+			<enclosure url="http://www.manhajona.cloud/appislamic/quran/myqli/114.mp3" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>
